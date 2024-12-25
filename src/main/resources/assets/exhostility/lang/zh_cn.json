@@ -1,0 +1,13 @@
+{
+  "trait.exhostility.adaptarmor": "适应装甲",
+  "trait.exhostility.dodge": "闪避",
+  "trait.exhostility.vampirism": "吸血",
+  "trait.exhostility.self_destruct": "自爆",
+  "trait.exhostility.self_destruct.desc": "§7怪物死亡后§b1秒§7自爆，对附近(半径§b3§7)玩家造成(怪物等级*§b10%§7/怪物等级*§b20%§7/怪物等级*§b30%§7)点伤害，§b不破坏方块",
+  "trait.exhostility.blood_covenant.desc": "§7受到的最大伤害不超过最大生命值的(§b11%§7-§b词条等级§7*§b2%)",
+  "trait.exhostility.blood_covenant": "血之契约",
+  "attribute.exmodifier.dodge": "闪避几率",
+  "attribute.exmodifier.percent_heal": "攻击百分比回血",
+  "trait.exhostility.adaptarmor.desc": "§7受到伤害次数越多,§b护甲值§7越高,初始无护甲值(每次§b+1§7/§b+3§7/§b+5§7/§b+7§7/§b+9§7,上限§b90§7次)"
+
+}

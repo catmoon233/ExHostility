@@ -1,0 +1,9 @@
+// 1.20.1	2024-09-17T23:03:52.2703577	Registrate Provider for exhostility [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (attributes), Tags (enchantments), Tags (mob_effects), Tags (traits), Patchouli Provider]
+98da82ca9e14eeea79b8863bcd0841eccfeb13a7 assets/exhostility/lang/en_ud.json
+f61b0455f38a923b4f3e54340a3a5ee4701aa2f0 assets/exhostility/lang/en_us.json
+81a0bb494b3b55f39081ab5b29b98ee9a6dd7e5e assets/exhostility/models/item/adaptarmor.json
+4a1dd61bb77cbaf81d3a894bad5b608e3220d697 assets/exhostility/models/item/blood_covenant.json
+ed9af056a5ed228ffccd07c5c9fff4d828ae6b9e assets/exhostility/models/item/dodge.json
+2eeab5f1e33945a280550991ba5fbd835210ccb0 assets/exhostility/models/item/self_destruct.json
+5b4e0910589b2c1a14a9a150fcb9d916c968b3f6 assets/exhostility/models/item/vampirism.json
+2b44be24fbdc78e69c03400de49bf2cda5df926f data/l2hostility/tags/items/trait_item.json

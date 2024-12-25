@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "exhostility:item/bg",
+    "layer1": "exhostility:item/trait/self_destruct"
+  }
+}
